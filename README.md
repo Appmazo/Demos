@@ -7,6 +7,17 @@ New York Times Browser
 ## Description
 This app demonstrates a lot of common iOS SDK fundamentals and techniques using the New York Times API.
 
+URL Validator
+==========================
+
+## Description
+This is an extension of NSURL that will take a provided String and validate it for both proper format and that it is an accessible url.
+It is asynchronous and returns the response and formatted URL String using a Swift Closure.
+
+## Screenshots
+![alt tag](/URL Validator/Screenshots/Launch.png)
+![alt tag](/URL Validator/Screenshots/Root.png)
+![alt tag](/URL Validator/Screenshots/Valid-Url.png)
 
 Vowel Counter iOS
 ==========
